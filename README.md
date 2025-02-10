@@ -22,7 +22,7 @@ Devin impressed many by acting like an intern who writes its own plan, updates t
    pip install cookiecutter
 
    # Create a new project
-   cookiecutter gh:grapeot/devin.cursorrules --checkout template
+   cookiecutter gh:jpacheco87/cursorrules --checkout template
    ```
 
    **Option 2: Manual Setup**
@@ -30,7 +30,7 @@ Devin impressed many by acting like an intern who writes its own plan, updates t
 
 2.	Planner-Executor Multi-Agent (Experimental)
 
-   Our new [multi-agent branch](https://github.com/grapeot/devin.cursorrules/tree/multi-agent) introduces a high-level Planner (powered by o1) that coordinates complex tasks, and an Executor (powered by Claude/GPT) that implements step-by-step actions. This two-agent approach drastically improves solution quality, cross-checking, and iteration speed.
+   Our new [multi-agent branch](https://github.com/jpacheco87/cursorrules/tree/multi-agent) introduces a high-level Planner (powered by o1) that coordinates complex tasks, and an Executor (powered by Claude/GPT) that implements step-by-step actions. This two-agent approach drastically improves solution quality, cross-checking, and iteration speed.
 
 3.	Extended Toolset
 
